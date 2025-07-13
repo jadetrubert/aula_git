@@ -1,2 +1,3 @@
 ola meu nome é Jade
 nova linha na branch staging
+- teste para merge (feito na branch staging)
